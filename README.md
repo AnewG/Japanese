@@ -1,3 +1,9 @@
-# 日本語 N5
+# 日本語
 
-![Alt text](JP.png?raw=true "Title")
+```
+
+熟悉 -> JP.png
+日语教程1 -> Japanese-1
+...
+
+```
